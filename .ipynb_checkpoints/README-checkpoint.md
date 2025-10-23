@@ -8,19 +8,16 @@ This project analyzes a telecom customer dataset to identify **key factors drivi
 
 ## 📂 Project Structure
 ├── data/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
-│ ├── customer_churn.csv  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
-│
+├── customer_churn.csv  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
 ├── screenshots/&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  
-│&nbsp;&nbsp;├── img17.png <br>
-│&nbsp;&nbsp;├── img18.png <br>
-│&nbsp;&nbsp;├── img19.png <br>
-│&nbsp;&nbsp;├── img20.png <br>
-│&nbsp;&nbsp;├── img21.png <br>
-│&nbsp;&nbsp;├── img22.png <br>
-│&nbsp;&nbsp;├── img23.png <br>
-│
+&nbsp;&nbsp;├── img17.png <br>
+&nbsp;&nbsp;├── img18.png <br>
+&nbsp;&nbsp;├── img19.png <br>
+&nbsp;&nbsp;├── img20.png <br>
+&nbsp;&nbsp;├── img21.png <br>
+&nbsp;&nbsp;├── img22.png <br>
+&nbsp;&nbsp;├── img23.png <br>
 ├── Customer_Churn_Analysis.ipynb
-│
 ├── README.md
 
 ---
@@ -33,6 +30,23 @@ This project analyzes a telecom customer dataset to identify **key factors drivi
 
 ---
 
+## 🖼️ Screenshots
+
+![Initial empty Tic-Tac-Toe board](Screenshots/img17.png)
+
+![choose a number](Screenshots/img18.png)
+
+![Game quit by player](Screenshots/img19.png)
+
+![Three round game](Screenshots/img20.png)
+
+![Three round game](Screenshots/img21.png)
+
+![Three round game](Screenshots/img22.png)
+
+![Three round game](Screenshots/img23.png)
+
+---
 ## 🔍 Exploratory Data Analysis (EDA)
 The analysis includes 15 key count plots comparing churn rates across various features.
 
@@ -135,40 +149,8 @@ Businesses can reduce churn by:
 
 ---
 
-## 🖼️ Screenshots
-
-![Screenshots/img17.png]
-
-![Screenshots/img18.png]
-
-![Screenshots/img19.png]
-
-![Screenshots/img20.png]
-
-![Screenshots/img21.png]
-
-![Screenshots/img22.png]
-
-![Screenshots/img23.png]
-
----
-
-## 🚀 Future Scope
-- Apply **Machine Learning models** (Logistic Regression, Random Forest, XGBoost) for churn prediction.  
-- Build **interactive dashboards** (using Power BI or Streamlit).  
-- Deploy a **Churn Prediction App** for real-time analysis.
-
----
-
 ## 📬 Author
 👤 **[Kanika Rana]**  
 📧 [ranakanika103.com]  
 🌐 [https://www.linkedin.com/in/kanika-rana-0681b4372/]  
-
----
-
-## 🏷️ Tags
-#CustomerChurn #DataAnalytics #MachineLearning #CustomerExperience #CustomerRetention #Python #EDA #TelecomAnalytics #DataVisualization
-
----
 
